@@ -44,6 +44,9 @@ function switchTAB() {
 }
 
 */
+
+/*
+
 // For LOGIN
 var x = document.getElementById("login");
 var y = document.getElementById("register");
