@@ -419,10 +419,11 @@ button {
     text-align: center;
     width: 350px;
     height: 200px;
-    box-shadow: inset 0 0 20px rgba(255, 255, 255, 0.05), 0 0 50px rgba(0, 0, 0, 0.8);
+    box-shadow: inset 0 0 20px rgba(255, 255, 255, ), 0 0 50px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
     cursor: pointer;
     transition-duration: .5s;
+    background: linear-gradient(to right, #00f639, #5d13c6);
 }
 
 .service-swipe .s-card p {
@@ -432,7 +433,7 @@ button {
 }
 
 .service-swipe .s-card:hover {
-    box-shadow: 0 0 50px rgba(255, 255, 255, 0.8);
+    box-shadow: 0 0 50px rgba(255, 255, 255, 0.4);
     transform: translateY(-10px);
 }
 
@@ -496,7 +497,7 @@ button {
 }
 
 .imp {
-    color: red;
+    color: rgb(94, 55, 236);
 }
 
 form textarea {
@@ -513,7 +514,7 @@ form textarea {
 
 #csubmit {
     margin-top: 20px;
-    background: linear-gradient(to right, #FA4B37, #DF2771);
+    background: linear-gradient(to right, #00f639, #5d13c6);
     border-radius: 5px;
     border-style: none;
     outline: none;
@@ -705,7 +706,7 @@ form textarea {
 
 .feed #csubmit {
     margin-top: 25px;
-    background: linear-gradient(to right, #FA4B37, #DF2771);
+    background: linear-gradient(to right, #00f639, #5d13c6);
     border-radius: 5px;
     border-style: none;
     outline: none;
