@@ -330,7 +330,7 @@ button {
     margin: 50px;
     width: 300px;
     border-radius: 10px;
-    background: #fff;
+    background: #4b56d1;
 }
 
 .totalcard .card {
@@ -360,12 +360,6 @@ button {
     cursor: pointer;
     border-radius: 50px;
     transition-duration: .8s;
-}
-
-.totalcard .card img:hover {
-    transform: scale(3.5);
-    border-radius: 0;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
 }
 
 #detail p {
@@ -409,7 +403,7 @@ button {
 
 .card-title {
     font-size: 17px;
-    color: #343A40;
+    color: #ffffff;
     padding: 20px;
     font-weight: 700;
 }
