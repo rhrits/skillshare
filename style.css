@@ -196,7 +196,7 @@ button {
 .smbox span {
     margin: 1%;
     background: #5d13c6;
-    box-shadow: inset 0px 0px 25px rgba(100, 255, 3, 0.5), 0 0 40px rgba(51, 255, 58, 0.4);
+    box-shadow: inset 0px 0px 25px rgba(238, 238, 238, 0), 0 0 40px rgba(255, 255, 255, 0.329);
     border-radius: 10px;
     padding: 30px 50px;
     cursor: pointer;
@@ -226,7 +226,7 @@ button {
     font-family: 'Open Sans', sans-serif;
     font-size: 30px;
     text-align: center;
-    color: #2E3D49;
+    color: #3c4852;
 }
 
 
